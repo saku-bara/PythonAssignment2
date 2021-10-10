@@ -1,7 +1,7 @@
 # PythonAssignment2
  Web Scrapping tool for Cryptocurrencies 
 
-###Installation 
+### Installation 
 
 To do web scrapping tool ```beautifulsoup4```, ```selenium```, and ```webdriver-manager``` libraries are required. Below shown their installation
 
@@ -9,4 +9,19 @@ To do web scrapping tool ```beautifulsoup4```, ```selenium```, and ```webdriver-
 pip install beautifulsoup4
 pip install selenium
 pip install webdriver-manager
+```
+
+### Install script
+
+```python
+git clone https://github.com/saku-bara/PythonAssignment2.git
+cd PythonAssignment2
+```
+
+#### Edit path in the script
+
+Provide the path to the file where data will be saved. You need to edit `test.py` file. In my case it is:
+
+```python
+sys.path.append('D:\\assignment2\\src')
 ```
