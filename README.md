@@ -34,7 +34,7 @@ parser = Parser()
 parser.getting('bitcoin')
 ```
 
-```bush
+```
 # after you installed the project and changed path
 cd WebScrappingTool\test
 python test.py
