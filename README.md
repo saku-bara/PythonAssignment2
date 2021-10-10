@@ -1,4 +1,4 @@
-# PythonAssignment2 Web Scrapping tool
+# Web Scrapping tool
  Web Scrapping tool for Cryptocurrencies 
 
 ### Installation 
