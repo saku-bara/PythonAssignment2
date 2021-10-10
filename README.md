@@ -43,5 +43,5 @@ parser.getting('bitcoin')
 ```
  The output will look like:
 ```
-{'title': "Vitalik Buterin: El Salvador's Bitcoin Approach Is 'Contrary to the Ideals' of Crypto", 'description': 'The Ethereum creator railed that Nayib Bukele "loves being praised" and said "shame on Bitcoin maximalists who are uncritically praising him."', 'img': 'https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/vitalik_buterin_2029298183-gID_2.jpg'}
+[{'title': "Vitalik Buterin: El Salvador's Bitcoin Approach Is 'Contrary to the Ideals' of Crypto", 'description': 'The Ethereum creator railed that Nayib Bukele "loves being praised" and said "shame on Bitcoin maximalists who are uncritically praising him."', 'img': 'https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/vitalik_buterin_2029298183-gID_2.jpg'}]
 ```
