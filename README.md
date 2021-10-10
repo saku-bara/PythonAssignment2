@@ -3,7 +3,7 @@
 
 ###Installation 
 
-To do web scrapping tool ```beautifulsoup4```, ```selenium```, and `webdriver-manager``` libraries are required. Below shown their installation
+To do web scrapping tool ```beautifulsoup4```, ```selenium```, and ```webdriver-manager``` libraries are required. Below shown their installation
 
 ```python
 pip install beautifulsoup4
