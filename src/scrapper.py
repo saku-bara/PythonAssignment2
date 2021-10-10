@@ -9,9 +9,10 @@ class Parser:
     def __get_page(self, url):
         driver = webdriver.Chrome(ChromeDriverManager().install())
         driver.get(url)
+        time.sleep(3)
         actions = ActionChains(driver)
         actions.move_to_element(driver.find_element_by_class_name("huqdoR")).click(driver.find_element(By.CLASS_NAME, 'sc-2nb8qo-0')).perform()
-        time.sleep(5)
+        time.sleep(3)
         return driver.page_source
         
     def __get_info(self, page):
