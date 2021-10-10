@@ -1,4 +1,4 @@
-# PythonAssignment2
+# PythonAssignment2 Web Scrapping tool
  Web Scrapping tool for Cryptocurrencies 
 
 ### Installation 
@@ -14,8 +14,8 @@ pip install webdriver-manager
 ### Install script
 
 ```
-git clone https://github.com/saku-bara/PythonAssignment2.git
-cd PythonAssignment2
+git clone https://github.com/saku-bara/WebScrappingTool.git
+cd WebScrappingTool
 ```
 
 #### Edit path in the script
@@ -36,4 +36,6 @@ parser.getting('bitcoin')
 
 ```python
 # after you installed the project and changed path
-cd
+cd WebScrappingTool\test
+python test.py
+```
