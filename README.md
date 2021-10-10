@@ -13,7 +13,7 @@ pip install webdriver-manager
 
 ### Install script
 
-```python
+```
 git clone https://github.com/saku-bara/PythonAssignment2.git
 cd PythonAssignment2
 ```
@@ -25,3 +25,15 @@ Provide the path to the file where data will be saved. You need to edit `test.py
 ```python
 sys.path.append('D:\\assignment2\\src')
 ```
+
+### Usage
+
+```python
+from scrapper import Parser
+parser = Parser()
+parser.getting('bitcoin')
+```
+
+```python
+# after you installed the project and changed path
+cd
